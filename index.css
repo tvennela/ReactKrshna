@@ -40,12 +40,12 @@
 }
 
 .btn-search{
-     margin-top: 10px;
-     margin-left: 10px;
+    margin-right:10px;
 }
 
 .btn-body{
     display: flex;
+    margin: 10px;
 }
 
 .shimmer-card{
